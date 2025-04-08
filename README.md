@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ### 🚀 Cloud Enthusiast | Business Developer | Tech-Driven Strategist
-### 💡 Passionate about cloud computing, business innovation, growth strategy and empowering impactful solutions through technology.
+**💡 Passionate about cloud computing, business innovation, growth strategy and empowering impactful solutions through technology.**
 
 ## About Me
 I'm a business management professional turned cloud computing professional, blending years of experience in sales, customer service, and business development with hands-on technical skills in **AWS, DevOps and Agile methodologies** to solve problems at scale.
